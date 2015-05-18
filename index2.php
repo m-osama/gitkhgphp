@@ -116,7 +116,7 @@ echo '</tbody></table>';
 	// $ages  		 =     $db->column("SELECT age FROM Persons");
 	// // The following statemens will return the affected rows
 	
-	// // Update statement tozzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+	// // Update statement tozzzzzzzzzzztttttzzzzzzzzzzzzzzzzzzzzzzzzzz
 	// $update		=  $db->query("UPDATE Persons SET firstname = :f WHERE Id = :id",array("f"=>"Johny","id"=>"1"));
 
 	// insert		=  $db->query("INSERT INTO `khgphp`.`Employee_Data` (`id`, `emp_name`, `scan`, `dataentry`, `review`, `check`, `approve`, `date`, `created`) VALUES (NULL, 'mosama1', '12', '232', '232', '22', '23', '2015-05-01 00:00:00', CURRENT_TIMESTAMP)"); 
