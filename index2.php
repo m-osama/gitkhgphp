@@ -31,7 +31,7 @@
 				<input type="text" name="ApproveOK">
 			</div>									
 					<button id="sub1" type="Submit" class="btn btn-default">submit</button>
-			
+			// hi osama your site is very bad fuck to github solution
 		</form>
 <br /><br /><br /><br />
 <?php
