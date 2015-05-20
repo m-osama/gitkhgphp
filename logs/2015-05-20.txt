@@ -1,0 +1,50 @@
+Time : 16:21:16
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 16:20:47
+SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+Time : 15:09:38
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:38
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:37
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:37
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:37
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:37
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:36
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:09:34
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:08:40
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:08:37
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:08:36
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:08:34
+SQLSTATE[HY000] [1044] Access denied for user 'khgphpuser'@'localhost' to database 'khgphp'
+
+Time : 15:06:37
+SQLSTATE[HY000] [1045] Access denied for user 'khgphpuser'@'localhost' (using password: YES)
+
+Time : 15:05:25
+SQLSTATE[HY000] [1045] Access denied for user 'khgphpuser'@'localhost' (using password: YES)
+
+Time : 14:39:45
+SQLSTATE[HY000] [1045] Access denied for user 'khgphpuser'@'localhost' (using password: YES)

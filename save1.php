@@ -7,7 +7,7 @@
 	$db = new Db();
 // private function save()
 // 		{
-			if ($_REQUEST[cmbx1]== "nm") or ($_REQUEST[cmbx1] not exist)
+		if ($_REQUEST[cmbx1]== "nm") //or ($_REQUEST[cmbx1] not exist)
 	{
 		header('refresh:0;url= index.php?status=3');
 	     	// if($_REQUEST['status']==2){print '<font color="green"><b>Form Submit successfully</b></font>';}
