@@ -1,0 +1,6 @@
+SELECT `id`,`emp_name`,sum(`dataentry`) FROM `employee_data` group by `emp_name` 
+
+SELECT `id`,`emp_name`,sum(`scan`),sum(`dataentry`),sum(`review`),sum(`check`),sum(`approve`) FROM `employee_data` where Date(date`) between ('01-05-2015' and '30-05-2015') group by `emp_name`
+SELECT `id`,`emp_name`,sum(`scan`),sum(`dataentry`),sum(`review`),sum(`check`),sum(`approve`), FROM `employee_data` where convert(Date,`date`) between '01-05-2015' and '30-05-2015' group by `emp_name`
+
+WHERE datetime LIKE '2009-10-20%' 

@@ -26,7 +26,7 @@
     die('Could not connect: ' . mysql_error());
     }
     mysql_select_db("khgphp", $con);
-    $result = mysql_query("SELECT `id`,`emp_name`,sum(`scan`),sum(`dataentry`),sum(`review`),sum(`check`),sum(`approve`) FROM `employee_data`  group by `emp_name`");
+    $result = mysql_query("SELECT `id`,`emp_name`,sum(`scan`),sum(`dataentry`),sum(`review`),sum(`check`),sum(`approve`) FROM `employee_data` where Date(date) between '2015-05-01' and '2015-05-29' group by `emp_name`");
     while($row = mysql_fetch_array($result))
     {
     echo "<br />";
